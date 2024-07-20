@@ -1,0 +1,17 @@
+.popoverStyle{
+    z-index: 99999 !important;
+    color: red;
+    text-align: center;
+    
+}
+a{
+    color: #212529 !important
+}
+
+.fc-icon{
+    color:red
+}
+
+.fc .fc-toolbar-title {
+    color:rgb(182, 11, 11)
+}
